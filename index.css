@@ -1,0 +1,34 @@
+body {
+    font-family: 'Gemunu Libre', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);  
+    background-image: url(/Purple.jpg);
+}
+img {
+    
+    width: 350px;
+    height: 350px;
+    padding: 35px;
+}
+
+.CNC {
+
+    text-align: center;
+}
+
+.WorldwideCollection {
+    
+    text-align: center;
+   
+}
+
+.Entrar {
+
+    text-align: center
+    
+}
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+}
